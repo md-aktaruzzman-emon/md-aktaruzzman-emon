@@ -23,18 +23,6 @@ I am a Computer Science undergraduate concentrating on systems development and c
 
 ---
 
-## Selected projects
-- **[ProjectName-Tooling]** — Small C/C++ utilities for automation and systems tasks.  
-  *Tech:* C/C++ · *Status:* In progress / maintained
-
-- **[ProjectName-Java]** — Java OOP project demonstrating clean design and tests.  
-  *Tech:* Java (OOP) · *Status:* In progress / maintained
-
-- **[ProjectName-Security]** — Vulnerability scanning reports and write-ups.  
-  *Tech:* Nmap, Nikto, custom scripts · *Status:* WIP
-
----
-
 ## Open source & contributions
 I contribute to open-source projects that improve tooling and documentation. I prioritize readable code, reproducible results, and clear contribution notes (issue templates, README, basic tests).
 
