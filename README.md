@@ -1,94 +1,43 @@
-<!-- 
-   Md. Aktaruzzman Emon - GitHub Profile README
-   Clean, professional, and original.
--->
+# Md. Aktaruzzman Emon
 <p align="center">
-  <img src="./banner.svg" alt="Md. Aktaruzzman Emon - Banner" width="100%">
-</p>
-<h1 align="center">Md. Aktaruzzman Emon</h1>
-<p align="center">
-  <strong>Computer Science Undergraduate · Systems Programming · Cybersecurity · Software Engineering</strong>
+  <img src="banner.svg" alt="Md. Aktaruzzman Emon - Banner" width="100%">
 </p>
 <p align="center">
-  <em>Building practical software tools in C, C++, Java, and Python — with a growing focus on defensive cybersecurity practices.</em>
+  <strong>Computer Science Undergraduate • Systems Programming • Defensive Cybersecurity • Software Engineering</strong>
+</p>
+<p align="center">
+  <em>Building practical software tools in C, C++, Java, and Python — with a focus on ethical, defensive cybersecurity.</em>
 </p>
 <p align="center">
   <a href="mailto:mdaktaruzzman1156@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdaktaruzzman1156%40gmail.com-00f2fe?style=flat-square&logo=gmail&logoColor=0a0f1d" alt="Email">
+    <img src="https://img.shields.io/badge/Email-mdaktaruzzman1156%40gmail.com-00f2fe?style=flat-square&logo=gmail&logoColor=070a13" alt="Email">
   </a>&nbsp;
   <a href="https://github.com/md-aktaruzzman-emon">
-    <img src="https://img.shields.io/badge/GitHub-md--aktaruzzman--emon-00f2fe?style=flat-square&logo=github&logoColor=0a0f1d" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-md--aktaruzzman--emon-00f2fe?style=flat-square&logo=github&logoColor=070a13" alt="GitHub">
   </a>&nbsp;
-  <!-- Replace # with your LinkedIn URL -->
+  <!-- Replace # with your real LinkedIn URL when ready -->
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4facfe?style=flat-square&logo=linkedin&logoColor=0a0f1d" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=flat-square&logo=linkedin&logoColor=070a13" alt="LinkedIn">
   </a>
 </p>
 ---
-## About Me
-I am a Computer Science undergraduate focused on **systems programming**, **cybersecurity**, **software engineering**, and **database systems**. I enjoy working close to the metal in C and C++, while also building practical utility tools in Java and Python.
-My core development philosophy:
-- **Readability & Maintainability:** Writing code that is clean, well-commented, and straightforward.
-- **Testing Habits:** Structuring projects to facilitate testing and systematic debugging.
-- **Defensive Design:** Implementing software with a security-first mindset.
-- **Practical Learning:** Developing complete, small-scale tools rather than copying generic tutorials.
-I am actively building my foundational skills, preparing for internships, and seeking open-source collaborations where I can contribute and grow.
+### 👤 About Me
+I am a Computer Science undergraduate with a strong academic and practical interest in **systems programming**, **cybersecurity**, **software engineering**, and **database systems**. I enjoy working close to the metal in C and C++, while also building automation scripts and object-oriented utilities in Python and Java.
+*   **Code Quality:** I prioritize readable, modular, and well-commented code.
+*   **Engineering Habit:** I integrate unit tests and systematic debugging practices early in my projects.
+*   **Security First:** I approach software development with secure coding principles in mind.
+*   **Honest Learning:** I focus on building complete, small-scale utility tools rather than copying tutorials.
+I am actively developing my technical skills, preparing for internships, and looking to collaborate on open-source projects.
 ---
-## Currently Learning & Building
-|
- Domain 
-|
- Focus Area 
-|
-|
-:---
-|
-:---
-|
-|
-**
-Systems Programming
-**
-|
- C/C++ fundamentals, file system interactions, memory management 
-|
-|
-**
-Algorithms
-**
-|
- Core data structures, problem-solving techniques, and space-time optimization 
-|
-|
-**
-Software Engineering
-**
-|
- Object-Oriented Programming in Java, clean coding, and unit testing 
-|
-|
-**
-Cybersecurity
-**
-|
- Python scripting for security tasks, network analysis (Nmap/Wireshark), secure coding 
-|
-|
-**
-Databases
-**
-|
- Relational databases, SQL query design, and schema normalization 
-|
-|
-**
-Tooling & Workflows
-**
-|
- Linux shell usage, Git/GitHub version control, debugging tools, CI/CD basics 
-|
+### 🚀 Currently Learning & Building
+*   💻 **Systems Programming:** Deeper study of memory models, file-handling API concepts, and C/C++ build pipelines.
+*   🧠 **Algorithms & Data Structures:** Writing clean implementations of standard structures and testing edge cases.
+*   ☕ **Java OOP:** Creating structured applications with clean class design, exceptions, and unit testing.
+*   🛡️ **Cybersecurity Automation:** Developing Python scripts to parse reports and analyze logs.
+*   🗄️ **Databases:** Normalizing schemas, designing entity-relationship models, and writing clean SQL queries.
+*   🛠️ **Modern Tooling:** Working with Linux shell commands, Git workflow patterns, and basic GitHub Actions pipelines.
 ---
-## Featured Projects
+### 📂 Featured Projects
 |
  Project 
 |
@@ -185,36 +134,36 @@ https://github.com/md-aktaruzzman-emon/cybersecurity-labs
 |
  🔨 In Progress 
 |
-> **Note:** Status reflects active project state. Repos marked **Planned** are designed but not yet initialized; **In Progress** repos are actively developed.
+> **Note on Project Status:** Repositories marked **Planned** are designed and structured but not yet initialized; **In Progress** repositories are actively developed.
 ---
-## Technical Skills
+### ⚙️ Technical Skills
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Strong</h3>
-      <img src="https://img.shields.io/badge/C-00f2fe?style=flat-square&logo=c&logoColor=0a0f1d" alt="C"><br>
-      <img src="https://img.shields.io/badge/C++-00f2fe?style=flat-square&logo=c%2B%2B&logoColor=0a0f1d" alt="C++"><br>
-      <img src="https://img.shields.io/badge/Git-00f2fe?style=flat-square&logo=git&logoColor=0a0f1d" alt="Git"><br>
-      <img src="https://img.shields.io/badge/GitHub-00f2fe?style=flat-square&logo=github&logoColor=0a0f1d" alt="GitHub">
+      <h4>Strong</h4>
+      <img src="https://img.shields.io/badge/C-00f2fe?style=flat-square&logo=c&logoColor=070a13" alt="C"><br>
+      <img src="https://img.shields.io/badge/C++-00f2fe?style=flat-square&logo=c%2B%2B&logoColor=070a13" alt="C++"><br>
+      <img src="https://img.shields.io/badge/Git-00f2fe?style=flat-square&logo=git&logoColor=070a13" alt="Git"><br>
+      <img src="https://img.shields.io/badge/GitHub-00f2fe?style=flat-square&logo=github&logoColor=070a13" alt="GitHub">
     </td>
     <td valign="top" width="33%">
-      <h3>Comfortable</h3>
-      <img src="https://img.shields.io/badge/Java-4facfe?style=flat-square&logo=openjdk&logoColor=0a0f1d" alt="Java"><br>
-      <img src="https://img.shields.io/badge/Python-4facfe?style=flat-square&logo=python&logoColor=0a0f1d" alt="Python"><br>
-      <img src="https://img.shields.io/badge/SQL-4facfe?style=flat-square&logo=postgresql&logoColor=0a0f1d" alt="SQL"><br>
-      <img src="https://img.shields.io/badge/Linux-4facfe?style=flat-square&logo=linux&logoColor=0a0f1d" alt="Linux">
+      <h4>Comfortable</h4>
+      <img src="https://img.shields.io/badge/Java-3b82f6?style=flat-square&logo=openjdk&logoColor=070a13" alt="Java"><br>
+      <img src="https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=070a13" alt="Python"><br>
+      <img src="https://img.shields.io/badge/SQL-3b82f6?style=flat-square&logo=postgresql&logoColor=070a13" alt="SQL"><br>
+      <img src="https://img.shields.io/badge/Linux-3b82f6?style=flat-square&logo=linux&logoColor=070a13" alt="Linux">
     </td>
     <td valign="top" width="33%">
-      <h3>Learning</h3>
-      <img src="https://img.shields.io/badge/Nmap-8892b0?style=flat-square" alt="Nmap"><br>
-      <img src="https://img.shields.io/badge/Wireshark-8892b0?style=flat-square&logo=wireshark&logoColor=0a0f1d" alt="Wireshark"><br>
-      <img src="https://img.shields.io/badge/CMake-8892b0?style=flat-square&logo=cmake&logoColor=0a0f1d" alt="CMake"><br>
-      <img src="https://img.shields.io/badge/Actions-8892b0?style=flat-square&logo=githubactions&logoColor=0a0f1d" alt="GitHub Actions">
+      <h4>Learning</h4>
+      <img src="https://img.shields.io/badge/Nmap-64748b?style=flat-square" alt="Nmap"><br>
+      <img src="https://img.shields.io/badge/Wireshark-64748b?style=flat-square&logo=wireshark&logoColor=070a13" alt="Wireshark"><br>
+      <img src="https://img.shields.io/badge/CMake-64748b?style=flat-square&logo=cmake&logoColor=070a13" alt="CMake"><br>
+      <img src="https://img.shields.io/badge/Actions-64748b?style=flat-square&logo=githubactions&logoColor=070a13" alt="GitHub Actions">
     </td>
   </tr>
 </table>
 <details>
-  <summary><strong>Detailed Skills Breakdown</strong></summary>
+  <summary><strong>Detailed Skills Index</strong></summary>
   <br>
 |
  Category 
@@ -263,37 +212,35 @@ Databases
 |
 </details>
 ---
-## Engineering Practices
-I aim for professional software standards by building good habits early:
-* **Conventional Commits:** Writing clean, structured git messages (e.g., `feat:`, `fix:`, `docs:`) to keep project histories readable.
-* **Organized Repositories:** Maintaining clean file hierarchies with code, documentation, and assets clearly separated.
-* **Thorough Documentation:** Creating self-explanatory READMEs for every project to outline setup, usage, and structure.
-* **Testing Discipline:** Incorporating basic unit tests to verify logic correctness and prevent regressions.
-* **CI/CD Automation:** Setting up basic GitHub Actions to automatically run builds and test suites on push.
-* **Structured Planning:** Using GitHub Issues and simple milestones to map out project features instead of working ad-hoc.
+### 🛡️ Cybersecurity Approach
+My practice of security concepts is strictly **defensive, legal, and educational**. I complete all exercises, scans, and packet analyses inside isolated, authorized virtual sandboxes (private target networks, local VM labs, and sanctioned training environments) to study vulnerability behavior safely.
+Current areas of study and practice:
+*   **Vulnerability Scanning:** Configuring scan scopes and parsing structured output (XML/JSON logs) for automated assessment.
+*   **Network Diagnostics:** Capturing, filtering, and analyzing network handshakes and protocols inside Wireshark.
+*   **Secure Code Auditing:** Learning to detect and fix structural flaws (like buffer overflows, resource leaks, or missing input validation).
 ---
-## Cybersecurity Focus
-My approach to security is strictly **defensive, legal, and ethical**. I conduct all analysis, testing, and lab exercises within controlled, authorized sandboxes (such as private local environments, CTF networks, or sanctioned academic labs) to study vulnerability behavior safely.
-Areas of current academic study and practical learning:
-* **Log & Scan Parsing:** Automating the extraction of vulnerability scan results (like Nmap) to speed up assessment reporting.
-* **Network Analysis:** Understanding packet structures, handshakes, and anomalies using Wireshark.
-* **Secure Coding:** Identifying common programming bugs (e.g., buffer overflows, SQL injections) and applying remediations.
+### 🛠️ Engineering Workflows
+I focus on building sustainable software habits that match modern open-source and team environments:
+*   **Structured Commits:** Following Conventional Commits (`feat:`, `fix:`, `docs:`) to maintain clean git histories.
+*   **Clean Repository Layout:** Separating code, assets, builds, and notes systematically.
+*   **Automation:** Writing basic GitHub Actions configurations to build and run test suites automatically.
+*   **Task Management:** Tracking tasks using issues, milestones, and markdown roadmaps rather than developing ad-hoc.
 ---
-## GitHub Stats
+### 📈 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=0a0f1d&title_color=00f2fe&icon_color=4facfe&text_color=e2e8f0&border_color=1b263b" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=05070c&title_color=00f2fe&icon_color=3b82f6&text_color=e2e8f0&border_color=1f293d" alt="GitHub Stats" height="165">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=0a0f1d&title_color=00f2fe&text_color=e2e8f0&border_color=1b263b" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=05070c&title_color=00f2fe&text_color=e2e8f0&border_color=1f293d" alt="Top Languages" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=dark&background=0a0f1d&stroke=1b263b&ring=00f2fe&fire=4facfe&currStreakLabel=e2e8f0&sideLabels=e2e8f0" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=dark&background=05070c&stroke=1f293d&ring=00f2fe&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=e2e8f0" alt="GitHub Streak">
 </p>
 ---
-## Contact & Links
+### 📬 Contact & Links
 |
- Platform 
+ Service 
 |
- Details / URL 
+ Link / Reference 
 |
 |
 :---
@@ -334,14 +281,14 @@ LinkedIn
 Resume
 **
 |
- [Download Resume]([Add resume link here]) 
+ [Download Resume PDF]([Add resume link here]) 
 |
 |
 **
 Portfolio
 **
 |
- [Visit Portfolio]([Add portfolio website here]) 
+ [Visit Personal Website]([Add portfolio website here]) 
 |
 <p align="center">
   <em>Thanks for visiting my profile — feel free to explore my repositories or get in touch.</em>
