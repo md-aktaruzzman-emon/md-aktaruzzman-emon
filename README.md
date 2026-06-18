@@ -1,242 +1,138 @@
-# Md. Aktaruzzman Emon
-> CSE undergraduate building reliable tools with C/C++, Java, Python, and defensive cybersecurity practices.
-I am a Computer Science undergraduate focused on systems programming, backend software development, and defensive cybersecurity. I build practical, security-conscious tools, write clear documentation, and apply software engineering best practices to my work. I am actively looking for **software engineering internships**, **cybersecurity internships**, systems programming roles, and open-source collaboration to learn, grow, and contribute to meaningful projects.
----
-### 👨‍💻 About Me
-*   🎓 **Education:** Computer Science & Engineering Undergraduate (Class of 2023 / current)
-*   🎯 **Interests:** Systems programming, defensive cybersecurity, backend/software engineering, and database systems.
-*   💡 **Philosophy:** Focus on writing clean, readable code, thorough documentation, unit testing, and building reproducible, practical tools.
----
-### 🚀 Currently Learning & Building
-*   **Systems Programming:** Advanced C/C++ memory management, system calls, and file handling.
-*   **Algorithms & Structures:** Mastering data structures and algorithms (DSA) implementation and optimization in C++.
-*   **Object-Oriented Design:** Software patterns, interfaces, exception handling, and testing in Java.
-*   **Security Automation:** Python scripting for vulnerability parsing, log analysis, and network helper utilities.
-*   **Modern Workflows:** Integrating CI/CD pipelines (GitHub Actions), unit testing frameworks, and debugging with GDB/Valgrind.
-*   **Defensive Security:** Network traffic analysis, vulnerability reporting, and secure coding practices.
----
-### 🛠️ Skills & Technologies
-|
- Category 
-|
- Strong 
-|
- Comfortable 
-|
- Currently Learning 
-|
-|
-:---
-|
-:---
-|
-:---
-|
-:---
-|
-|
-**
-Languages
-**
-|
- C, C++ 
-|
- Java, Python 
-|
- SQL 
-|
-|
-**
-Software Engineering
-**
-|
- OOP Foundations, Clean Code, Documentation 
-|
- Data Structures, Algorithms 
-|
- Unit Testing, Design Patterns 
-|
-|
-**
-Systems & Tools
-**
-|
- Git, GitHub 
-|
- Linux Basics, Make/CMake 
-|
- Debugging (GDB), CI/CD, Git Workflows 
-|
-|
-**
-Databases
-**
-|
- — 
-|
- Basic Database Concepts 
-|
- SQL, Schema Design, Normalization 
-|
-|
-**
-Cybersecurity
-**
-|
- — 
-|
- Secure Coding Basics, Reporting 
-|
- Vulnerability Scanning, Nmap, Wireshark 
-|
----
-### 📁 Featured Projects
-|
- Project 
-|
- Description 
-|
- Tech Stack 
-|
- Status 
-|
-|
-:---
-|
-:---
-|
-:---
-|
-:---
-|
-|
-**
-[
-cpp-dsa-lab
-](
-https://github.com/md-aktaruzzman-emon/cpp-dsa-lab
-)
-**
-|
- C++ data structures and algorithms practice with explanations and test cases. 
-|
- C++, GTest / Catch2 
-|
- 🔄 In Progress 
-|
-|
-**
-[
-c-systems-toolkit
-](
-https://github.com/md-aktaruzzman-emon/c-systems-toolkit
-)
-**
-|
- C systems programming tools demonstrating Make/CMake, file handling, memory concepts, and debugging. 
-|
- C, Make / CMake 
-|
- 🔄 In Progress 
-|
-|
-**
-[
-java-oop-library-system
-](
-https://github.com/md-aktaruzzman-emon/java-oop-library-system
-)
-**
-|
- Java OOP project showing class design, interfaces, exception handling, and testing. 
-|
- Java, JUnit 
-|
- 🔄 In Progress 
-|
-|
-**
-[
-securiscan
-](
-https://github.com/md-aktaruzzman-emon/securiscan
-)
-**
-|
- Python defensive security tool for parsing scan results and generating reports. 
-|
- Python 
-|
- 📅 Planned 
-|
-|
-**
-[
-database-schema-lab
-](
-https://github.com/md-aktaruzzman-emon/database-schema-lab
-)
-**
-|
- SQL/database schema design, normalization, ER diagrams, and query practice. 
-|
- SQL, PostgreSQL / MySQL 
-|
- 📅 Planned 
-|
-|
-**
-[
-cybersecurity-labs
-](
-https://github.com/md-aktaruzzman-emon/cybersecurity-labs
-)
-**
-|
- Ethical cybersecurity lab notes, Nmap reports, Wireshark analysis, and secure coding notes. 
-|
- Markdown, Nmap, Wireshark 
-|
- 🔄 In Progress 
-|
-> ℹ️ *Note: Repositories are actively being developed and improved as part of my learning journey. Project states are updated regularly.*
----
-### ⚙️ Software Engineering Practices
-I believe that writing code is only a part of software engineering. I am active in developing and adopting these practices across my repositories:
-*   **Conventional Commits:** Writing structured, descriptive commit messages to maintain a clean and readable repository history.
-*   **Comprehensive Documentation:** Ensuring every project has a detailed README, setup instructions, and code comments.
-*   **Quality & Testing:** Adopting unit testing to verify code correctness and avoid regression.
-*   **CI/CD Integration:** Building automated GitHub Actions workflows for building, formatting checks, and running tests.
-*   **Structured Development:** Using roadmaps, GitHub issues, and milestones to plan my progress.
----
-### 🛡️ Cybersecurity Focus (Ethical & Defensive)
-My exploration into cybersecurity is strictly focused on defensive and authorized educational contexts:
-*   **Authorized Environments Only:** All vulnerability scanning and network analysis are performed exclusively in local lab settings or authorized sandbox environments.
-*   **Defensive Engineering:** Learning how vulnerabilities occur at the system level (buffer overflows, memory leaks) to write secure, robust C/C++ code.
-*   **Reporting:** Focusing on how to write professional security assessments, detailing findings, impact, and remediation steps.
-*   **Core Concepts:** Studying OWASP Top 10, Linux system hardening, network analysis (Wireshark), and network footprinting basics (Nmap).
----
-### 🎯 Portfolio Goals
-This GitHub profile serves as a living portfolio of my technical journey. It is designed to showcase my capabilities for:
-1.  **Software Engineering Internships** — Demonstrating object-oriented design, test-driven development, and clean code.
-2.  **Cybersecurity Internships** — Showcasing security scripting, report writing, and network analysis skills.
-3.  **Systems Programming Roles** — Sharing low-level toolsets, performance considerations, and system-level C/C++ programming.
-4.  **Open Source Collaboration** — Engaging with the community, learning from code reviews, and contributing to reliable utilities.
----
-### 📊 GitHub Stats
-<p align="left">
-  <a href="https://github.com/md-aktaruzzman-emon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Md. Aktaruzzman Emon's GitHub Stats" />
-  </a>
-  <a href="https://github.com/md-aktaruzzman-emon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=nord&langs_count=6" alt="Top Languages" />
-  </a>
+<h1 align="center">Md. Aktaruzzman Emon</h1>
+<p align="center"><b>Computer Science Undergraduate · Systems Programming · Cybersecurity · Software Engineering</b></p>
+
+<p align="center">
+Building practical software tools in C, C++, Java, and Python — with a growing focus on defensive cybersecurity practices.
+<br>
+Open to <b>Software Engineering</b>, <b>Cybersecurity</b>, and <b>Systems Programming</b> internships, and open-source collaboration.
 </p>
+
+<p align="center">
+<a href="mailto:mdaktaruzzman1156@gmail.com"><img src="https://img.shields.io/badge/Email-mdaktaruzzman1156%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="[Add LinkedIn URL here]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 ---
-### ✉️ Contact & Connect
-If you'd like to collaborate on an open-source project, discuss internships, or just talk tech, feel free to reach out!
-*   **Email:** [mdaktaruzzman1156@gmail.com](mailto:mdaktaruzzman1156@gmail.com)
-*   **GitHub:** [@md-aktaruzzman-emon](https://github.com/md-aktaruzzman-emon)
-*   **LinkedIn:** [Add LinkedIn URL here]
-*   **Resume:** [Add resume link here]
-*   **Portfolio:** [Add portfolio website here]
+
+## About Me
+
+I'm a Computer Science undergraduate with a strong interest in **systems programming**, **cybersecurity**, **software engineering**, and **database systems**. I enjoy working close to the metal in C and C++, while also building practical tools in Java and Python.
+
+I'm currently focused on:
+- Writing readable, well-documented code
+- Practicing test-driven habits and debugging discipline
+- Learning defensive cybersecurity through ethical, lab-based exercises
+- Building real, small-but-complete projects rather than abandoned tutorials
+
+I'm a student actively building skills and preparing for internships — not claiming expertise I don't have yet.
+
+---
+
+## Currently Learning & Building
+
+| Area | Focus |
+|---|---|
+| Systems Programming | C/C++ fundamentals, file handling, memory concepts |
+| Algorithms | Data structures & algorithms, problem solving |
+| Software Engineering | Java OOP, clean code, unit testing |
+| Cybersecurity | Python automation, Nmap & Wireshark basics, secure coding |
+| Databases | SQL, schema design, normalization |
+| Tooling | Linux basics, Git/GitHub workflows, debugging, CI/CD (GitHub Actions) |
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| [`cpp-dsa-lab`](https://github.com/md-aktaruzzman-emon/cpp-dsa-lab) | C++ data structures & algorithms practice, with explanations and tests | C++ | In Progress |
+| [`c-systems-toolkit`](https://github.com/md-aktaruzzman-emon/c-systems-toolkit) | Small C systems programming tools covering file handling, memory concepts, and debugging | C | In Progress |
+| [`java-oop-library-system`](https://github.com/md-aktaruzzman-emon/java-oop-library-system) | Java OOP project demonstrating class design, interfaces, exceptions, and unit tests | Java | Planned |
+| [`securiscan`](https://github.com/md-aktaruzzman-emon/securiscan) | Python tool for parsing defensive security scan output and generating reports | Python | Planned |
+| [`database-schema-lab`](https://github.com/md-aktaruzzman-emon/database-schema-lab) | SQL schema design, normalization, ER diagrams, and query practice | SQL | Planned |
+| [`cybersecurity-labs`](https://github.com/md-aktaruzzman-emon/cybersecurity-labs) | Ethical, lab-based cybersecurity notes — Nmap reports, Wireshark analysis, secure coding notes | Markdown / Notes | In Progress |
+
+> Status reflects real project state. Repos marked "Planned" are not yet started; "In Progress" repos are incomplete and actively being worked on.
+
+---
+
+## Skills
+
+**Strong**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Comfortable**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Currently Learning**
+![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+| Category | Skills |
+|---|---|
+| Programming Languages | C, C++, Java, Python, SQL |
+| Software Engineering | Data structures & algorithms, OOP, clean code, debugging, unit testing, documentation, Git/GitHub |
+| Systems Programming | C/C++ development, file handling, memory concepts, Linux basics, Make/CMake basics |
+| Cybersecurity | Defensive cybersecurity, vulnerability scanning, Nmap basics, Wireshark basics, secure coding, vulnerability reporting, ethical lab-based learning |
+| Databases | SQL, schema design, normalization, basic database concepts |
+
+---
+
+## Engineering Practices
+
+I'm actively working on improving my development workflow, including:
+
+- Meaningful commit messages and Conventional Commits
+- Clean, organized repository structure
+- Clear README documentation for every project
+- Unit testing as a regular habit
+- GitHub Actions for basic CI/CD
+- Using Issues and project roadmaps to plan work
+- Following standard open-source contribution workflows (forks, branches, pull requests)
+
+---
+
+## Cybersecurity Focus
+
+My approach to cybersecurity is intentionally **legal, ethical, and lab-based**. I practice only in authorized environments — personal labs, CTF platforms, and sanctioned training environments — never against systems I don't own or have explicit permission to test.
+
+Currently learning:
+- Vulnerability scanning and reporting
+- Secure coding fundamentals
+- OWASP Top 10 basics
+- Network analysis with Nmap and Wireshark
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=default" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=default" alt="GitHub Streak">
+</p>
+
+---
+
+## Contact
+
+- **GitHub:** [@md-aktaruzzman-emon](https://github.com/md-aktaruzzman-emon)
+- **Email:** [mdaktaruzzman1156@gmail.com](mailto:mdaktaruzzman1156@gmail.com)
+- **LinkedIn:** [Add LinkedIn URL here]
+- **Resume:** [Add resume link here]
+- **Portfolio:** [Add portfolio website here]
+
+---
+
+<p align="center"><i>Thanks for visiting my profile — feel free to explore my repositories or reach out.</i></p>
