@@ -1,9 +1,3 @@
-Here is the complete code for your `README.md`. You can copy and paste this code block directly into your GitHub README editor.
-
-### ⚠️ Note on the Banner & Logo
-For the banner and logo to render on GitHub, you must commit **`banner.svg`** and **`logo.svg`** to the root of your profile repository. GitHub does not allow raw inline SVG code directly in the Markdown for security reasons.
-
-```markdown
 # Md. Aktaruzzman Emon
 
 <p align="center">
@@ -164,4 +158,3 @@ I focus on building sustainable software habits that match modern open-source an
 <p align="center">
   <em>Thanks for visiting my profile — feel free to explore my repositories or get in touch.</em>
 </p>
-```
