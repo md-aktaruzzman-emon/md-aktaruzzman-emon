@@ -1,115 +1,160 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="100%">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05070f" />
-      <stop offset="40%" stop-color="#0b132b" />
-      <stop offset="80%" stop-color="#1c1a27" />
-      <stop offset="100%" stop-color="#020408" />
-    </linearGradient>
+# Md. Aktaruzzman Emon
 
-    <!-- Glowing Accent Gradients -->
-    <linearGradient id="primary-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f2fe" />
-      <stop offset="50%" stop-color="#4facfe" />
-      <stop offset="100%" stop-color="#a18cd1" />
-    </linearGradient>
+<p align="center">
+  <img src="banner.svg" alt="Md. Aktaruzzman Emon - Banner" width="100%">
+</p>
 
-    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f2fe" />
-      <stop offset="100%" stop-color="#4facfe" />
-    </linearGradient>
+<p align="center">
+  <strong>Computer Science Undergraduate • Systems Programming • Defensive Cybersecurity • Software Engineering</strong>
+</p>
 
-    <linearGradient id="accent-gold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffd200" />
-      <stop offset="100%" stop-color="#f7971e" />
-    </linearGradient>
+<p align="center">
+  <em>Building practical software tools in C, C++, Java, and Python — with a focus on ethical, defensive cybersecurity.</em>
+</p>
 
-    <!-- Grid Pattern -->
-    <pattern id="dot-grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <circle cx="15" cy="15" r="1" fill="#475569" opacity="0.35" />
-    </pattern>
+<p align="center">
+  <a href="mailto:mdaktaruzzman1156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdaktaruzzman1156%40gmail.com-00f2fe?style=flat-square&logo=gmail&logoColor=070a13" alt="Email">
+  </a>&nbsp;
+  <a href="https://github.com/md-aktaruzzman-emon">
+    <img src="https://img.shields.io/badge/GitHub-md--aktaruzzman--emon-00f2fe?style=flat-square&logo=github&logoColor=070a13" alt="GitHub">
+  </a>&nbsp;
+  <!-- Replace # with your real LinkedIn URL when ready -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=flat-square&logo=linkedin&logoColor=070a13" alt="LinkedIn">
+  </a>
+</p>
 
-    <!-- Filters -->
-    <filter id="glow-heavy" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    
-    <filter id="glow-soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
+---
 
-  <!-- Background Layer -->
-  <rect width="100%" height="100%" fill="url(#bg-gradient)" />
-  <rect width="100%" height="100%" fill="url(#dot-grid)" />
+### 👤 About Me
 
-  <!-- Abstract Tech Grid Lines & Circles -->
-  <g stroke="url(#primary-glow)" stroke-width="1" fill="none" opacity="0.25">
-    <!-- Center circular radar / tech circles -->
-    <circle cx="425" cy="160" r="140" stroke-dasharray="5, 10" />
-    <circle cx="425" cy="160" r="110" />
-    <circle cx="425" cy="160" r="80" stroke-dasharray="3, 3" />
-    
-    <!-- Tech lines radiating outward -->
-    <line x1="0" y1="160" x2="280" y2="160" stroke-width="1.5" />
-    <line x1="570" y1="160" x2="850" y2="160" stroke-width="1.5" />
-    
-    <!-- Circuit lines on bottom left -->
-    <path d="M 50,250 L 150,250 L 180,220 L 250,220" />
-    <circle cx="250" cy="220" r="3" fill="#00f2fe" />
-    
-    <!-- Circuit lines on top right -->
-    <path d="M 800,70 L 700,70 L 670,100 L 600,100" />
-    <circle cx="600" cy="100" r="3" fill="#a18cd1" />
-  </g>
+I am a Computer Science undergraduate with a strong academic and practical interest in **systems programming**, **cybersecurity**, **software engineering**, and **database systems**. I enjoy working close to the metal in C and C++, while also building automation scripts and object-oriented utilities in Python and Java.
 
-  <!-- Background Ambient Glow behind text -->
-  <circle cx="425" cy="160" r="130" fill="#4facfe" opacity="0.12" filter="url(#glow-heavy)" />
-  
-  <!-- Side bracket accents for code aesthetic -->
-  <text x="140" y="180" font-family="'Courier New', Courier, monospace" font-size="64" fill="#00f2fe" opacity="0.25" font-weight="900" filter="url(#glow-soft)">&lt;</text>
-  <text x="660" y="180" font-family="'Courier New', Courier, monospace" font-size="64" fill="#a18cd1" opacity="0.25" font-weight="900" filter="url(#glow-soft)">&gt;</text>
+*   **Code Quality:** I prioritize readable, modular, and well-commented code.
+*   **Engineering Habit:** I integrate unit tests and systematic debugging practices early in my projects.
+*   **Security First:** I approach software development with secure coding principles in mind.
+*   **Honest Learning:** I focus on building complete, small-scale utility tools rather than copying tutorials.
 
-  <!-- Main Title -->
-  <text x="425" y="135" text-anchor="middle" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="38" fill="url(#primary-glow)" letter-spacing="6" filter="url(#glow-soft)">
-    MD. AKTARUZZMAN EMON
-  </text>
+I am actively developing my technical skills, preparing for internships, and looking to collaborate on open-source projects.
 
-  <!-- Horizontal divider line -->
-  <line x1="260" y1="160" x2="590" y2="160" stroke="url(#primary-glow)" stroke-width="2.5" opacity="0.85" filter="url(#glow-soft)" />
+---
 
-  <!-- Subtitle -->
-  <text x="425" y="195" text-anchor="middle" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="12.5" fill="#94a3b8" letter-spacing="4">
-    SYSTEMS ENGINEERING  •  ETHICAL HACKING  •  PYTHON AUTOMATION
-  </text>
+### 🚀 Currently Learning & Building
 
-  <!-- Mini Tech Stack Badges at the bottom -->
-  <g transform="translate(295, 235)" opacity="0.8">
-    <!-- C/C++ Glowing Shield Emblem -->
-    <g transform="translate(0, 0)">
-      <polygon points="12,2 2,6 2,14 12,20 22,14 22,6" fill="none" stroke="#4facfe" stroke-width="1.5" filter="url(#glow-soft)" />
-      <text x="12" y="13" font-family="sans-serif" font-size="7" font-weight="bold" fill="#00f2fe" text-anchor="middle">C++</text>
-    </g>
+*   💻 **Systems Programming:** Deeper study of memory models, file-handling API concepts, and C/C++ build pipelines.
+*   🧠 **Algorithms & Data Structures:** Writing clean implementations of standard structures and testing edge cases.
+*   ☕ **Java OOP:** Creating structured applications with clean class design, exceptions, and unit testing.
+*   🛡️ **Cybersecurity Automation:** Developing Python scripts to parse reports and analyze logs.
+*   🗄️ **Databases:** Normalizing schemas, designing entity-relationship models, and writing clean SQL queries.
+*   🛠️ **Modern Tooling:** Working with Linux shell commands, Git workflow patterns, and basic GitHub Actions pipelines.
 
-    <!-- Python Glowing Shield Emblem -->
-    <g transform="translate(90, 0)">
-      <polygon points="12,2 2,6 2,14 12,20 22,14 22,6" fill="none" stroke="#ffd200" stroke-width="1.5" filter="url(#glow-soft)" />
-      <text x="12" y="13" font-family="sans-serif" font-size="7" font-weight="bold" fill="#f7971e" text-anchor="middle">PY</text>
-    </g>
+---
 
-    <!-- Cybersecurity Shield Emblem -->
-    <g transform="translate(180, 0)">
-      <polygon points="12,2 2,6 2,14 12,20 22,14 22,6" fill="none" stroke="#a18cd1" stroke-width="1.5" filter="url(#glow-soft)" />
-      <path d="M12,5 L17,8 L17,12 C17,15 15,17 12,18 C9,17 7,15 7,12 L7,8 Z" fill="#a18cd1" opacity="0.7" />
-    </g>
+### 📂 Featured Projects
 
-    <!-- Databases / SQL Shield Emblem -->
-    <g transform="translate(250, 0)">
-      <polygon points="12,2 2,6 2,14 12,20 22,14 22,6" fill="none" stroke="#00f2fe" stroke-width="1.5" filter="url(#glow-soft)" />
-      <text x="12" y="13" font-family="sans-serif" font-size="7" font-weight="bold" fill="#00f2fe" text-anchor="middle">SQL</text>
-    </g>
-  </g>
-</svg>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [`cpp-dsa-lab`](https://github.com/md-aktaruzzman-emon/cpp-dsa-lab) | C++ data structures and algorithms practice, complete with explanations and tests. | C++ | 🔨 In Progress |
+| [`c-systems-toolkit`](https://github.com/md-aktaruzzman-emon/c-systems-toolkit) | Small C systems tools covering file handling, memory concepts, and custom debugging wrappers. | C | 🔨 In Progress |
+| [`java-oop-library-system`](https://github.com/md-aktaruzzman-emon/java-oop-library-system) | Java OOP project showing class hierarchy design, interfaces, custom exceptions, and unit tests. | Java | 📋 Planned |
+| [`securiscan`](https://github.com/md-aktaruzzman-emon/securiscan) | Python defensive security tool for parsing raw scanner output and generating structured reports. | Python | 📋 Planned |
+| [`database-schema-lab`](https://github.com/md-aktaruzzman-emon/database-schema-lab) | SQL schema design repository focusing on normalization, ER diagrams, and query optimization. | SQL | 📋 Planned |
+| [`cybersecurity-labs`](https://github.com/md-aktaruzzman-emon/cybersecurity-labs) | Collection of ethical lab notes, vulnerability analysis reports, and network packet capture logs. | Markdown | 🔨 In Progress |
+
+> **Note on Project Status:** Repositories marked **Planned** are designed and structured but not yet initialized; **In Progress** repositories are actively developed.
+
+---
+
+### ⚙️ Technical Skills
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>Strong</h4>
+      <img src="https://img.shields.io/badge/C-00f2fe?style=flat-square&logo=c&logoColor=070a13" alt="C"><br>
+      <img src="https://img.shields.io/badge/C++-00f2fe?style=flat-square&logo=c%2B%2B&logoColor=070a13" alt="C++"><br>
+      <img src="https://img.shields.io/badge/Git-00f2fe?style=flat-square&logo=git&logoColor=070a13" alt="Git"><br>
+      <img src="https://img.shields.io/badge/GitHub-00f2fe?style=flat-square&logo=github&logoColor=070a13" alt="GitHub">
+    </td>
+    <td valign="top" width="33%">
+      <h4>Comfortable</h4>
+      <img src="https://img.shields.io/badge/Java-3b82f6?style=flat-square&logo=openjdk&logoColor=070a13" alt="Java"><br>
+      <img src="https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=070a13" alt="Python"><br>
+      <img src="https://img.shields.io/badge/SQL-3b82f6?style=flat-square&logo=postgresql&logoColor=070a13" alt="SQL"><br>
+      <img src="https://img.shields.io/badge/Linux-3b82f6?style=flat-square&logo=linux&logoColor=070a13" alt="Linux">
+    </td>
+    <td valign="top" width="33%">
+      <h4>Learning</h4>
+      <img src="https://img.shields.io/badge/Nmap-64748b?style=flat-square" alt="Nmap"><br>
+      <img src="https://img.shields.io/badge/Wireshark-64748b?style=flat-square&logo=wireshark&logoColor=070a13" alt="Wireshark"><br>
+      <img src="https://img.shields.io/badge/CMake-64748b?style=flat-square&logo=cmake&logoColor=070a13" alt="CMake"><br>
+      <img src="https://img.shields.io/badge/Actions-64748b?style=flat-square&logo=githubactions&logoColor=070a13" alt="GitHub Actions">
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Detailed Skills Index</strong></summary>
+  <br>
+
+| Category | Competencies |
+| :--- | :--- |
+| **Programming Languages** | C, C++, Java, Python, SQL |
+| **Software Engineering** | Data structures & algorithms, OOP, clean code, debugging, unit testing, documentation, Git/GitHub |
+| **Systems Programming** | C/C++ development, file handling, memory management concepts, Linux command line, Make/CMake basics |
+| **Cybersecurity** | Defensive practices, secure coding fundamentals, vulnerability scanning, Nmap, Wireshark packet analysis |
+| **Databases** | Relational schemas, entity-relationship design, normalization, SQL querying |
+
+</details>
+
+---
+
+### 🛡️ Cybersecurity Approach
+
+My practice of security concepts is strictly **defensive, legal, and educational**. I complete all exercises, scans, and packet analyses inside isolated, authorized virtual sandboxes (private target networks, local VM labs, and sanctioned training environments) to study vulnerability behavior safely.
+
+Current areas of study and practice:
+*   **Vulnerability Scanning:** Configuring scan scopes and parsing structured output (XML/JSON logs) for automated assessment.
+*   **Network Diagnostics:** Capturing, filtering, and analyzing network handshakes and protocols inside Wireshark.
+*   **Secure Code Auditing:** Learning to detect and fix structural flaws (like buffer overflows, resource leaks, or missing input validation).
+
+---
+
+### 🛠️ Engineering Workflows
+
+I focus on building sustainable software habits that match modern open-source and team environments:
+*   **Structured Commits:** Following Conventional Commits (`feat:`, `fix:`, `docs:`) to maintain clean git histories.
+*   **Clean Repository Layout:** Separating code, assets, builds, and notes systematically.
+*   **Automation:** Writing basic GitHub Actions configurations to build and run test suites automatically.
+*   **Task Management:** Tracking tasks using issues, milestones, and markdown roadmaps rather than developing ad-hoc.
+
+---
+
+### 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=05070c&title_color=00f2fe&icon_color=3b82f6&text_color=e2e8f0&border_color=1f293d" alt="GitHub Stats" height="165">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=05070c&title_color=00f2fe&text_color=e2e8f0&border_color=1f293d" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=dark&background=05070c&stroke=1f293d&ring=00f2fe&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=e2e8f0" alt="GitHub Streak">
+</p>
+
+---
+
+### 📬 Contact & Links
+
+| Service | Link / Reference |
+| :--- | :--- |
+| **GitHub** | [@md-aktaruzzman-emon](https://github.com/md-aktaruzzman-emon) |
+| **Email** | [mdaktaruzzman1156@gmail.com](mailto:mdaktaruzzman1156@gmail.com) |
+| **LinkedIn** | [Connect on LinkedIn]([Add LinkedIn URL here]) |
+| **Resume** | [Download Resume PDF]([Add resume link here]) |
+| **Portfolio** | [Visit Personal Website]([Add portfolio website here]) |
+
+<p align="center">
+  <em>Thanks for visiting my profile — feel free to explore my repositories or get in touch.</em>
+</p>
