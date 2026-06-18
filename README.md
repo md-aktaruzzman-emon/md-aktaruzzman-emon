@@ -1,11 +1,4 @@
-Edited banner.svg
-Edited logo.svg
-Edited README.md
-
-Here is the final copyable code block for your `README.md` featuring the new **Mint Green (`#00f5a0`) and Sky Blue (`#00b8ff`)** cybersecurity-themed color scheme.
-
-
- Md. Aktaruzzman Emon
+# Md. Aktaruzzman Emon
 
 <p align="center">
   <img src="banner.svg" alt="Md. Aktaruzzman Emon - Banner" width="100%">
@@ -21,14 +14,14 @@ Here is the final copyable code block for your `README.md` featuring the new **M
 
 <p align="center">
   <a href="mailto:mdaktaruzzman1156@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdaktaruzzman1156%40gmail.com-00f5a0?style=flat-square&logo=gmail&logoColor=05080c" alt="Email">
+    <img src="https://img.shields.io/badge/Email-mdaktaruzzman1156%40gmail.com-A0D2EB?style=flat-square&logo=gmail&logoColor=09050d" alt="Email">
   </a>&nbsp;
   <a href="https://github.com/md-aktaruzzman-emon">
-    <img src="https://img.shields.io/badge/GitHub-md--aktaruzzman--emon-00f5a0?style=flat-square&logo=github&logoColor=05080c" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-md--aktaruzzman--emon-A0D2EB?style=flat-square&logo=github&logoColor=09050d" alt="GitHub">
   </a>&nbsp;
   <!-- Replace # with your real LinkedIn URL when ready -->
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00b8ff?style=flat-square&logo=linkedin&logoColor=05080c" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8458B3?style=flat-square&logo=linkedin&logoColor=E5EAF5" alt="LinkedIn">
   </a>
 </p>
 
@@ -79,24 +72,24 @@ I am actively developing my technical skills, preparing for internships, and loo
   <tr>
     <td valign="top" width="33%">
       <h4>Strong</h4>
-      <img src="https://img.shields.io/badge/C-00f5a0?style=flat-square&logo=c&logoColor=05080c" alt="C"><br>
-      <img src="https://img.shields.io/badge/C++-00f5a0?style=flat-square&logo=c%2B%2B&logoColor=05080c" alt="C++"><br>
-      <img src="https://img.shields.io/badge/Git-00f5a0?style=flat-square&logo=git&logoColor=05080c" alt="Git"><br>
-      <img src="https://img.shields.io/badge/GitHub-00f5a0?style=flat-square&logo=github&logoColor=05080c" alt="GitHub">
+      <img src="https://img.shields.io/badge/C-8458B3?style=flat-square&logo=c&logoColor=E5EAF5" alt="C"><br>
+      <img src="https://img.shields.io/badge/C++-8458B3?style=flat-square&logo=c%2B%2B&logoColor=E5EAF5" alt="C++"><br>
+      <img src="https://img.shields.io/badge/Git-8458B3?style=flat-square&logo=git&logoColor=E5EAF5" alt="Git"><br>
+      <img src="https://img.shields.io/badge/GitHub-8458B3?style=flat-square&logo=github&logoColor=E5EAF5" alt="GitHub">
     </td>
     <td valign="top" width="33%">
       <h4>Comfortable</h4>
-      <img src="https://img.shields.io/badge/Java-00b8ff?style=flat-square&logo=openjdk&logoColor=05080c" alt="Java"><br>
-      <img src="https://img.shields.io/badge/Python-00b8ff?style=flat-square&logo=python&logoColor=05080c" alt="Python"><br>
-      <img src="https://img.shields.io/badge/SQL-00b8ff?style=flat-square&logo=postgresql&logoColor=05080c" alt="SQL"><br>
-      <img src="https://img.shields.io/badge/Linux-00b8ff?style=flat-square&logo=linux&logoColor=05080c" alt="Linux">
+      <img src="https://img.shields.io/badge/Java-A0D2EB?style=flat-square&logo=openjdk&logoColor=09050d" alt="Java"><br>
+      <img src="https://img.shields.io/badge/Python-A0D2EB?style=flat-square&logo=python&logoColor=09050d" alt="Python"><br>
+      <img src="https://img.shields.io/badge/SQL-A0D2EB?style=flat-square&logo=postgresql&logoColor=09050d" alt="SQL"><br>
+      <img src="https://img.shields.io/badge/Linux-A0D2EB?style=flat-square&logo=linux&logoColor=09050d" alt="Linux">
     </td>
     <td valign="top" width="33%">
       <h4>Learning</h4>
-      <img src="https://img.shields.io/badge/Nmap-64748b?style=flat-square" alt="Nmap"><br>
-      <img src="https://img.shields.io/badge/Wireshark-64748b?style=flat-square&logo=wireshark&logoColor=05080c" alt="Wireshark"><br>
-      <img src="https://img.shields.io/badge/CMake-64748b?style=flat-square&logo=cmake&logoColor=05080c" alt="CMake"><br>
-      <img src="https://img.shields.io/badge/Actions-64748b?style=flat-square&logo=githubactions&logoColor=05080c" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Nmap-A28089?style=flat-square" alt="Nmap"><br>
+      <img src="https://img.shields.io/badge/Wireshark-A28089?style=flat-square&logo=wireshark&logoColor=E5EAF5" alt="Wireshark"><br>
+      <img src="https://img.shields.io/badge/CMake-A28089?style=flat-square&logo=cmake&logoColor=E5EAF5" alt="CMake"><br>
+      <img src="https://img.shields.io/badge/Actions-A28089?style=flat-square&logo=githubactions&logoColor=E5EAF5" alt="GitHub Actions">
     </td>
   </tr>
 </table>
@@ -141,13 +134,13 @@ I focus on building sustainable software habits that match modern open-source an
 ### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=05080c&title_color=00f5a0&icon_color=00b8ff&text_color=e2e8f0&border_color=1f293d" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=09050d&title_color=A0D2EB&icon_color=8458B3&text_color=E5EAF5&border_color=A28089" alt="GitHub Stats" height="165">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=05080c&title_color=00f5a0&text_color=e2e8f0&border_color=1f293d" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=09050d&title_color=A0D2EB&text_color=E5EAF5&border_color=A28089" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=dark&background=05080c&stroke=1f293d&ring=00f5a0&fire=00b8ff&currStreakLabel=e2e8f0&sideLabels=e2e8f0" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=dark&background=09050d&stroke=A28089&ring=A0D2EB&fire=8458B3&currStreakLabel=E5EAF5&sideLabels=E5EAF5" alt="GitHub Streak">
 </p>
 
 ---
@@ -165,4 +158,3 @@ I focus on building sustainable software habits that match modern open-source an
 <p align="center">
   <em>Thanks for visiting my profile — feel free to explore my repositories or get in touch.</em>
 </p>
-```
