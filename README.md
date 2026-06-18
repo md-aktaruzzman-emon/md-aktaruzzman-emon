@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🏛️ MD. AKTARUZZMAN EMON</h1>
-  <p><strong>Systems Engineering • Defensive Cybersecurity • Software Architecture</strong></p>
+  <p><strong>Systems Programming • Defensive Security Engineering • Database Architecture</strong></p>
 
   <p>
     <a href="mailto:mdaktaruzzman1156@gmail.com">
@@ -17,45 +17,29 @@
   </p>
 
   <blockquote>
-    <strong>"Writing code that runs close to the metal, structured by strict mathematical efficiency, and shielded by defensive principles."</strong>
+    <strong>"Designing low-latency systems structured on algorithmic efficiency and reinforced by defensive security principles."</strong>
   </blockquote>
 </div>
 
 ---
 
 ### 🌐 Executive Profile
-I am a Computer Science undergraduate specializing in **low-level systems development**, **relational database architecture**, and **defensive security engineering**. My core objective is bridging the gap between performance-driven development (C/C++) and automation-driven defensive logic (Python). 
+I am a Computer Science undergraduate specializing in **low-level systems development**, **relational database architecture**, and **defensive security engineering**. My technical focus lies at the intersection of performance and security—building robust, low-overhead software in C/C++, implementing clean design patterns in Java, and engineering defensive automation and vulnerability scripts in Python. 
 
-By employing rigorous Software Engineering standards, Object-Oriented principles, and algorithm complexity analysis, I construct reliable tools that run optimized and remain secure against active exploitation vectors.
-
----
-
-### ⚡ Technical Pillars
-
-#### 🛠️ C/C++ Systems & Memory Control
-*   **Manual Resource Management:** Strict adherence to RAII, custom allocators, and deterministic object lifetimes to eliminate leaks.
-*   **Close-to-Metal Programming:** Pointers, bitwise operations, custom headers, and low-level communication sockets.
-*   **Compilation & Debugging:** Proficient with `gcc/g++`, Makefile scripts, `gdb` debugging, and `valgrind` memory profiling.
-
-#### 🛡️ Ethical Hacking & Defensive Engineering
-*   **Vulnerability Assessment:** Network mapping and service enumeration using active probes (`nmap`), analyzing logs, and parsing potential attack paths.
-*   **Traffic Analysis:** Packet capture, protocol decoding, and security audit filtering using `wireshark`.
-*   **Exploit Automation:** Writing high-fidelity network auditing modules, scanner extensions, and security test scripts in Python.
-*   **Secure Implementation:** Coding defenses against memory corruption bugs (buffer overflows), access-control bypasses, and injection flaws.
-
-#### 🏗️ Computer Science Core (OOP & DSA)
-*   **Object-Oriented Design:** Strict implementation of SOLID design, object inheritance/polymorphism, interface segregation, and design patterns.
-*   **Data Structures:** Custom structures (trees, graphs, double-ended queues, hash tables) developed from scratch for performance benchmarking.
-*   **Algorithms:** Analysis of asymptotic complexity ($O$), graph traversals (BFS, DFS, Dijkstra), dynamic programming, and greedy algorithms.
-
-#### 🗄️ Database Engineering
-*   **Schema Design:** Structural normalization, maintaining strong foreign key constraints, mapping one-to-many/many-to-many schemas.
-*   **SQL Mastery:** Indexing patterns, query isolation levels, and optimizing complex joins in transaction-heavy setups.
-*   **Tech Stack:** Designing backend relational models with **PostgreSQL**, **MySQL**, and **SQLite**.
+By applying rigorous computer science fundamentals, Object-Oriented Design (OOD), and data structures, I develop highly optimized tools engineered to be secure by design.
 
 ---
 
-### 🛠️ Skill Matrix
+### ⚡ Technical Focus Areas
+
+*   **💻 Low-Level Systems & Memory Safety:** Developing optimized systems in C/C++ with strict adherence to Resource Acquisition Is Initialization (RAII), manual memory management, and debugging using tools like `GDB` and `Valgrind`.
+*   **🛡️ Security Engineering & Defensive Auditing:** Automating vulnerability assessments, sniffing and analyzing network packet traffic using `Wireshark`, and writing defensive security tools.
+*   **🏗️ Computer Science Core (OOP & DSA):** Implementing design patterns (SOLID principles) and custom data structures (trees, graphs, hash tables) to resolve complex algorithmic challenges efficiently.
+*   **🗄️ Relational Database Architecture:** Designing normalized relational schemas, maintaining foreign key integrity, and optimizing SQL queries for high-transaction environments.
+
+---
+
+### 🛠️ Technical Skill Matrix
 
 <table width="100%">
   <tr>
@@ -67,7 +51,7 @@ By employing rigorous Software Engineering standards, Object-Oriented principles
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ Ethical Hacking & Security</h4>
+      <h4>🛡️ Security & Auditing</h4>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
       <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=a4e63b" alt="HackTheBox" />
@@ -82,10 +66,10 @@ By employing rigorous Software Engineering standards, Object-Oriented principles
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
     <td width="50%" valign="top">
-      <h4>🏗️ Architecture & Theory</h4>
+      <h4>🏗️ CS Fundamentals & Platforms</h4>
       <img src="https://img.shields.io/badge/DSA-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA / Leetcode" />
       <img src="https://img.shields.io/badge/OOP-Design_Patterns-007ACC?style=for-the-badge" alt="OOP Design" />
-      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
@@ -94,20 +78,27 @@ By employing rigorous Software Engineering standards, Object-Oriented principles
 
 ### 🛡️ Featured Projects
 
-#### [Antigravity](https://github.com/md-aktaruzzman-emon/Antigrabity)
-> **High-Performance Privacy & Browser Security Defense Platform**
-*   **Concept:** Browser extension incorporating Ad Blocking, Tracker Blocking, Anti-Fingerprinting, and AI Threat Detection.
-*   **Tech Stack:** JavaScript, C++ WebAssembly engines (for sub-millisecond filtering logic), and Python scripts for automated blocklist generation and integrity parsing.
+#### ⚡ [Antigravity](https://github.com/md-aktaruzzman-emon/Antigrabity)
+*   **Value Proposition:** A high-performance, privacy-first browser security and content defense platform.
+*   **Concept:** A client-side browser extension designed to block trackers, ads, fingerprinting, and detect potential phishing/scam vectors locally.
+*   **Tech Stack:** JavaScript, WebExtensions API, C++ WebAssembly, Python (rule compilation scripts).
+*   **Key Features:** Sub-millisecond rule evaluation utilizing compiled C++ logic; real-time tracker blocking; anti-fingerprinting heuristics.
+*   **Why It Matters:** Demonstrates structural application of WebAssembly to run high-performance filtering algorithms inside client-side JS environments safely.
+*   *Note: The repository is named `Antigrabity` on GitHub.*
 
-#### [DB-Schema Designer & Editor](https://github.com/md-aktaruzzman-emon/db-schema-editor)
-> **Interactive Database Modeler & Presentation Generator**
-*   **Concept:** Front-end application designed for visual database mapping. It maintains foreign key integrity and relationship mappings dynamically, with a custom PowerPoint (PPTX) exporter for schema presentations.
-*   **Tech Stack:** HTML5, CSS3, JavaScript, OOP Design Patterns.
+#### 📊 [DB-Schema Designer & Editor](https://github.com/md-aktaruzzman-emon/db-schema-editor)
+*   **Value Proposition:** Interactive database modeler and presentation generator.
+*   **Concept:** A web application for modeling relational database schemas visually while maintaining semantic constraint integrity.
+*   **Tech Stack:** HTML5, Vanilla CSS, JavaScript (ES6+), OOP Design Patterns.
+*   **Key Features:** Dynamic relationship mappings, strict foreign key integrity tracking during arrow edits, and automatic layout export to PowerPoint (PPTX) format.
+*   **Why It Matters:** Showcases client-side state validation and relational logic using pure object-oriented design patterns.
 
-#### [SecScan-Automation](https://github.com/md-aktaruzzman-emon/secscan-automation)
-> **Automated Network Enumeration & Vulnerability Scripting Engine**
-*   **Concept:** Automates asset scans, runs custom CVE detection checks, and compiles security threat profiles.
+#### 🔍 [SecScan-Automation](https://github.com/md-aktaruzzman-emon/secscan-automation)
+*   **Value Proposition:** Defensive network enumeration and security auditing automation engine.
+*   **Concept:** A security auditing utility designed to automate asset discovery, scan ports, and cross-reference active services with CVE records.
 *   **Tech Stack:** Python, Nmap API, Scapy, Markdown Templating.
+*   **Key Features:** Parallel host mapping, automatic network packet disassembly and verification, and generation of structured markdown auditing reports.
+*   **Why It Matters:** Automates repetitive security assessment tasks to bridge the gap between network detection and remediation reporting.
 
 ---
 
@@ -128,7 +119,13 @@ By employing rigorous Software Engineering standards, Object-Oriented principles
 
 ---
 
-### 🎯 Current Focus Areas
-*   **Advanced Exploitation & Shellcoding:** Deep-diving into buffer overflow exploits and shellcode injection in C and Assembly.
-*   **Database Query Optimization:** Mastering query planning, partitioning, and indexing strategies in highly transactional environments.
-*   **OS & Kernel Internals:** Building mini-kernels and studying virtualization architecture.
+### 🎯 Current Focus Areas & Learning Roadmap
+*   **Memory Safety & Vulnerability Research:** Analyzing security bugs and implementing compiler-level mitigations in C/C++ environments.
+*   **Database Engine Internals:** Deep-diving into query planning, partitioning strategy, and cache tuning parameters.
+*   **Defensive Security Automation:** Developing custom scripts to analyze server access patterns and detect intrusion attempts.
+
+---
+
+### ✉️ Connect & Collaborate
+*   **Open to Collaboration:** I am always open to contributing to open-source systems software and security auditing tooling.
+*   **Get in Touch:** You can reach out directly via [Email](mailto:mdaktaruzzman1156@gmail.com) or connect on [GitHub](https://github.com/md-aktaruzzman-emon).
