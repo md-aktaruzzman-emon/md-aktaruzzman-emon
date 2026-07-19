@@ -151,7 +151,7 @@ I focus on building sustainable software habits that match modern open-source an
 | :--- | :--- |
 | **GitHub** | [@md-aktaruzzman-emon](https://github.com/md-aktaruzzman-emon) |
 | **Email** | [mdaktaruzzman1156@gmail.com](mailto:mdaktaruzzman1156@gmail.com) |
-| **LinkedIn** | [Connect on LinkedIn]([Add LinkedIn URL here]) |
+| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/mdaktaruzzmanemon/)) |) |
 | **Resume** | [Download Resume PDF]([Add resume link here]) |
 | **Portfolio** | [Visit Personal Website]([Add portfolio website here]) |
 
