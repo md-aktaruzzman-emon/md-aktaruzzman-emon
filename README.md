@@ -133,9 +133,11 @@ I focus on building sustainable software habits that match modern open-source an
 ### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=09050d&title_color=A0D2EB&icon_color=8458B3&text_color=E5EAF5&border_color=A28089" alt="GitHub Stats" height="165">
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=09050d&title_color=A0D2EB&text_color=E5EAF5&border_color=A28089" alt="Top Languages" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&bg_color=09050d&title_color=A0D2EB&icon_color=8458B3&text_color=E5EAF5&border_color=A28089" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&bg_color=09050d&title_color=A0D2EB&text_color=E5EAF5&border_color=A28089" alt="Top Languages">
 </p>
 
 <p align="center">
