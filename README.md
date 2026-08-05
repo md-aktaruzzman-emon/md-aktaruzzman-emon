@@ -19,8 +19,7 @@
   <a href="https://github.com/md-aktaruzzman-emon">
     <img src="https://img.shields.io/badge/GitHub-md--aktaruzzman--emon-A0D2EB?style=flat-square&logo=github&logoColor=09050d" alt="GitHub">
   </a>&nbsp;
-  <!-- Replace # with your real LinkedIn URL when ready -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/mdaktaruzzmanemon/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8458B3?style=flat-square&logo=linkedin&logoColor=E5EAF5" alt="LinkedIn">
   </a>
 </p>
@@ -134,9 +133,9 @@ I focus on building sustainable software habits that match modern open-source an
 ### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=09050d&title_color=A0D2EB&icon_color=8458B3&text_color=E5EAF5&border_color=A28089" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=md-aktaruzzman-emon&show_icons=true&theme=dark&bg_color=09050d&title_color=A0D2EB&icon_color=8458B3&text_color=E5EAF5&border_color=A28089" alt="GitHub Stats" height="165">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=09050d&title_color=A0D2EB&text_color=E5EAF5&border_color=A28089" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-aktaruzzman-emon&layout=compact&theme=dark&bg_color=09050d&title_color=A0D2EB&text_color=E5EAF5&border_color=A28089" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
@@ -152,8 +151,8 @@ I focus on building sustainable software habits that match modern open-source an
 | **GitHub** | [@md-aktaruzzman-emon](https://github.com/md-aktaruzzman-emon) |
 | **Email** | [mdaktaruzzman1156@gmail.com](mailto:mdaktaruzzman1156@gmail.com) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/mdaktaruzzmanemon/) |
-| **Resume** | [Download Resume PDF]([Add resume link here]) |
-| **Portfolio** | [Visit Personal Website]([Add portfolio website here]) |
+| **Resume** | [Download Resume PDF](#) |
+| **Portfolio** | [Visit Personal Website](#) |
 
 <p align="center">
   <em>Thanks for visiting my profile — feel free to explore my repositories or get in touch.</em>
