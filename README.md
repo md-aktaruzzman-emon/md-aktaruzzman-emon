@@ -140,7 +140,7 @@ I focus on building sustainable software habits that match modern open-source an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-aktaruzzman-emon&theme=dark&background=09050d&stroke=A28089&ring=A0D2EB&fire=8458B3&currStreakLabel=E5EAF5&sideLabels=E5EAF5" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=md-aktaruzzman-emon&theme=dark&background=09050d&stroke=A28089&ring=A0D2EB&fire=8458B3&currStreakLabel=E5EAF5&sideLabels=E5EAF5" alt="GitHub Streak">
 </p>
 
 ---
