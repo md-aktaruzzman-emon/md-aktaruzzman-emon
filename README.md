@@ -153,8 +153,8 @@ I focus on building sustainable software habits that match modern open-source an
 | **GitHub** | [@md-aktaruzzman-emon](https://github.com/md-aktaruzzman-emon) |
 | **Email** | [mdaktaruzzman1156@gmail.com](mailto:mdaktaruzzman1156@gmail.com) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/mdaktaruzzmanemon/) |
-| **Resume** | [Download Resume PDF](#) |
-| **Portfolio** | [Visit Personal Website](https://my-portfolio0-1.vercel.app/) |
+#| **Resume** | [Download Resume PDF](#) |
+| **Portfolio** | [My Portfolio](https://my-portfolio0-1.vercel.app/) |
 
 <p align="center">
   <em>Thanks for visiting my profile — feel free to explore my repositories or get in touch.</em>
